@@ -1,0 +1,5 @@
+            Object Oriented Programming
+# Class - Blueprint/Code template for instantiating (creating) an object.
+#Object - object created by the init of the class, then object will called instance of class.
+
+benefits:
